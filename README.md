@@ -14,5 +14,7 @@ Je n'ai pas réussi à faire récupérer les *n premiers commentaires* en utilis
 ## Installer les requirements dans votre virtualenv
 ```pip install -r requirements.txt```
 
-### Créer un environnement virtuel
+### Créer un environnement virtuel puis l'activer
 ``` virtualenv .venv```
+```source .venv/bin/activate ```
+
